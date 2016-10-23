@@ -1,10 +1,10 @@
 /**
  * Created by ranwahle on 10/10/2016.
  */
-import { OpaqueToken } from '@angular/core';
+import {OpaqueToken} from '@angular/core';
 
 // import translations
-import { LANG_EN_NAME, LANG_EN_TRANS } from './lang-en';
+import {LANG_EN_NAME, LANG_EN_TRANS} from './lang-en';
 import {LANG_HE_NAME, LANG_HE_TRANS} from "./lang-he";
 import {LANG_AR_NAME} from "./lang-ar";
 
@@ -12,7 +12,7 @@ import {LANG_AR_NAME} from "./lang-ar";
 export const TRANSLATIONS = new OpaqueToken('translations');
 
 // all traslations
-const dictionary = {
+export const dictionary = {
   [LANG_EN_NAME]: LANG_EN_TRANS,
   [LANG_HE_NAME]: LANG_HE_TRANS
 
@@ -25,5 +25,5 @@ export const RightToLeft = [
 
 // providers
 export const TRANSLATION_PROVIDERS = [
-  { provide: TRANSLATIONS, useValue: dictionary },
+  {provide: TRANSLATIONS, useValue: dictionary},
 ];

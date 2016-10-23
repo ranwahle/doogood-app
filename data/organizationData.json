@@ -1,0 +1,3645 @@
+{
+  "Data": {
+    "-Date": "2014/06/01",
+    "Articles": {
+      "Article": [
+        {
+          "-ID": "!Amutot",
+          "-Type": "2",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/09/19 16:57:55",
+          "-Export": "1",
+          "-Stored": "1",
+          "ArticleItem": {
+            "-Tag": "Main Title",
+            "-TagID": "3",
+            "#text": "עמותות"
+          }
+        },
+        {
+          "-ID": "!Amutot-1",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "1",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001979",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "אוכל לנזקקים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "bfc@actcom.net.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "רחוב נמל תל אביב 4, תל אביב"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "יהושע"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "03-6024444"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "ימים א-ה - 13:00-19:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "bfc@actcom.net.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.096627;34.773128"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "6"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-2",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "2",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001980",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "ארגון נכי ישראל"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "zvilevi@hotmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "סחרוב 17, ראשון לציון"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "צבי לוי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "03-9415540"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "ימים א'-ה', 09:00-16:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "zvilevi@hotmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.991114; 34.771608"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "2"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-3",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "3",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001981",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "ברית שלום וחסד - סניף מערב"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "britshalom5W@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "רחוב 11 הנקודות,  נתיבות"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "קובי איפרגאן"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-6075010"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה', 10:00-21:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "britshalom5@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.425800; 34.577594 "
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "400"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-4",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "4",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001982",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "ברית שלום וחסד - סניף מרכז"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "britshalom5M@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "שדרות ירושלים 241,   נתיבות"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "קובי איפרגאן"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-6075010"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה', 10:00-21:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "britshalom5@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": " 31.422764; 34.591611"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "400"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-5",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "5",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001983",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "החסד לב רמות"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "levramot@zahav.net.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "לואי ליפסקי 40, ירושלים"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "משה קיט"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-2864507"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "24/7"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "levramot@zahav.net.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.8156645;35.2053097"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "30"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-6",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "6",
+          "-CreateTime": "2015/08/21 13:39:32",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001984",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "למען נזקקים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "abdkashou@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "באב אלח'אן, טירה              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "עבד קשוע"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "09-7937028"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 09:00-00:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "abdkashou@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.228047; 34.963603"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "2"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-7",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "7",
+          "-CreateTime": "2015/10/16 13:59:21",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001985",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "אפשרות מכל הלב"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "se-k@hotufi.net"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "בית המתנדב, הזמיר 39 קרית אונו"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "שרה קנר"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-6369493"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "בתאום מראש"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "se-k@hotufi.net"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.062416; 34.853924"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "20"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-8",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "8",
+          "-CreateTime": "2015/10/16 14:44:02",
+          "-Version": "2015/12/19 13:13:57",
+          "-Export": "1",
+          "-NI": "500001986",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "הקרן לפיתוח ערד/ יד לערד"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "yadlearad@walla.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "סייפן 3, ערד"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "שלום"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-2706131"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "yadlearad@walla.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.2662986; 35.2222997"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "500"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-9",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "9",
+          "-CreateTime": "2015/10/16 14:53:53",
+          "-Version": "2016/01/15 16:54:04",
+          "-Export": "1",
+          "-NI": "500001987",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "צ'לנוב 18,  תל אביב"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "0506879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0582261;34.7774342"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "10"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-10",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "10",
+          "-CreateTime": "2015/10/18 11:17:27",
+          "-Version": "2016/01/07 19:18:39",
+          "-Export": "1",
+          "-NI": "500001988",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע א. יהודהבוגרים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-m@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "כמוס עגיב 8,    אור יהודה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0337361;34.8456299"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "10"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-11",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "11",
+          "-CreateTime": "2015/10/18 11:27:53",
+          "-Version": "2016/01/07 19:18:39",
+          "-Export": "1",
+          "-NI": "500001989",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע א.יהודה צעירים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-y@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "סקלאר 1,              אור יהודה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.025950; 34.854720"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "10"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-12",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "12",
+          "-CreateTime": "2015/10/18 11:42:33",
+          "-Version": "2016/01/07 19:18:39",
+          "-Export": "1",
+          "-NI": "500001990",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע בית שאן"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-bs@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הנעמן 50,              בית שאן"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.4912217;35.503399"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "10"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-13",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "13",
+          "-CreateTime": "2015/10/31 19:48:21",
+          "-Version": "2016/01/07 19:18:39",
+          "-Export": "1",
+          "-NI": "500001991",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע כפר שלם"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-kf@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "מוצא 6, ת\"א              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0505123;34.8131252"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "10"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-14",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "14",
+          "-CreateTime": "2015/10/31 19:59:19",
+          "-Version": "2016/01/07 19:18:39",
+          "-Export": "1",
+          "-NI": "500001992",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע עו\"ז"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-oz@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "דוד וולפסון 62, ת\"א"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0571476;34.7776143"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-15",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "15",
+          "-CreateTime": "2016/01/06 21:05:47",
+          "-Version": "2016/01/06 21:29:35",
+          "-Export": "1",
+          "-NI": "500001993",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "חמ\"ד"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "michal-be@013.net.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הציונות 3/29,              אשדוד"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "יוסי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-8903560"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' "
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "michal-be@013.net.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.7877553;34.638702"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "50"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-16",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "16",
+          "-CreateTime": "2016/01/06 21:10:14",
+          "-Version": "2016/01/06 21:29:35",
+          "-Export": "1",
+          "-NI": "500001994",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "חסדי אבות"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "tzvi@hasdeiavot.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "כלב בן יפונה 25,              קרית ארבע"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "צבי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-5426740"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 9:30-13:00, ה' 17:-20:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "tzvi@hasdeiavot.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.5314179;35.1136522"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "4"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-17",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "17",
+          "-CreateTime": "2016/01/06 21:14:56",
+          "-Version": "2016/01/06 21:29:35",
+          "-Export": "1",
+          "-NI": "500001995",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "כפר הילדים אור שמחה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "orsimcha@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "כפר חב\"ד"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "יוסי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "054-4770892"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ו' "
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "orsimcha@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.9877682;34.8483462"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "20"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-18",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "18",
+          "-CreateTime": "2016/01/06 21:20:01",
+          "-Version": "2016/01/06 21:29:35",
+          "-Export": "1",
+          "-NI": "500001996",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לדימונה מלב אל לב"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "pn2@015.net.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "ציפורי 35,              דימונה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "דליה"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-2394007"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "ב', ה' 17:00-23:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "pn2@015.net.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.054807;35.0342842"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "2"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-19",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "19",
+          "-CreateTime": "2016/01/06 21:24:47",
+          "-Version": "2016/01/06 21:29:35",
+          "-Export": "1",
+          "-NI": "500001997",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "מפעל החסד יד ביד לוד"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "yadlod1@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "דרך בית הדין 10,              לוד"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "מנדל"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-6674433"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 8:00-15:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "yadlod1@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.949904;34.8955813"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "10"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-20",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "20",
+          "-CreateTime": "2016/01/06 21:26:44",
+          "-Version": "2016/01/06 21:29:35",
+          "-Export": "1",
+          "-NI": "500001998",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "משנה לחם רעננה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "mishnelechem@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "רחוב היצירה 21,              רעננה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "נעמי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "054-4752104"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "17:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "mishnelechem@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.1949121;34.87366"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "2"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-22",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "21",
+          "-CreateTime": "2016/01/06 21:32:08",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500001999",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "מתן בסתר"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "nisim_h55@walla.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "היצול 3,              אשקלון"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "ניסים"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-4011167"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "ד'-ה' 14:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "nisim_h55@walla.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.6657532;34.5942304"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-23",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "22",
+          "-CreateTime": "2016/01/06 21:33:44",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002000",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "נכ\"ח ירושלים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "rothschinbar1@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הרפובליקה הדומיניקנית 5,              ירושלים"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "ענבר"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-2052737"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 17:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "rothschinbar@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.7550137;35.1657797"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "5"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-24",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "23",
+          "-CreateTime": "2016/01/06 21:36:40",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002001",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "נכ\"ח קרית גת"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "rothschinbar2@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "גדעון בן יואש 10,              קרית גת"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "תומר"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "053-6256349"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 17:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "rothschinbar@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.6173502;34.7601456"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "5"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-25",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "24",
+          "-CreateTime": "2016/01/06 21:38:07",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002002",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "נכ\"ח מושב נאורה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "rothschinbar3@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "מושב נהורה,              לכיש"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "שגב"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-5887670"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 17:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "rothschinbar@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.6242024;34.7028786"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "5"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-26",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "25",
+          "-CreateTime": "2016/01/06 21:39:32",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002003",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "נכ\"ח רחובות"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "rothschinbar4@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "דוד אלעזר 34,              רחובות"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אבנר"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-9289894"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה-' 17:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "rothschinbar@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.894908;34.7748895"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "5"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-27",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "26",
+          "-CreateTime": "2016/01/06 21:41:13",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002004",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "נתינה - מפעל החסד"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "netina770@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הס 5,              נתניה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "דוד"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-6568770"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 8:00-19:00, ו' 9:00-13:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "netina770@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.3269404;34.858216"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-28",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "27",
+          "-CreateTime": "2016/01/06 21:43:43",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002005",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "עזר מציון בת ים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "mosheetraube1@ami.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "חביבה רייך 3,              בת ים"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "משה"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-2544563"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' "
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "mosheetraube@ami.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0164997;34.7514395"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "30"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-29",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "28",
+          "-CreateTime": "2016/01/06 21:47:10",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002006",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "עזר מציון חולון"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "mosheetraube2@ami.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הנרייטה סולד 31,              חולון"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "משה"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-2544563"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה'"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "mosheetraube@ami.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0270977;34.7689024"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "30"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-30",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "29",
+          "-CreateTime": "2016/01/06 21:49:41",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002007",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "עמותת מתנדבי הרצליה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "zoulai@walla.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "רביבים 12,              הרצליה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "זולאי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "054-9701264"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "ה' 12:30-19:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "zoulai@walla.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.1735419;34.8508645"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-31",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "30",
+          "-CreateTime": "2016/01/06 21:51:47",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002008",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "פתחי עולם ראשלצ"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "malovisrael@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "חבד 7,              ראשון לציון"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "ישראל"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "054-7511770"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 8:00-13:30, 18:30-20:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "malovisrael@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.9683136;34.8066779"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-32",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "31",
+          "-CreateTime": "2016/01/06 21:53:24",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002009",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "קופת הצדקה המרכזית מאירוביץ"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "koopat-m@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "מאירוביץ 7,              נתניה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "שאול"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6747218"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ו' 8:00-22:00 "
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "koopat@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.3264626;34.854332"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "3"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-33",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "32",
+          "-CreateTime": "2016/01/06 21:56:10",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002010",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "קופת הצדקה המרכזית לילינבלום"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "koopat-l@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "לילינבלום 5,              נתניה"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "שאול"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6747218"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ו' 8:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "koopat@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.3254191;34.8560045"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "3"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-34",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "33",
+          "-CreateTime": "2016/01/06 21:57:32",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002011",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "רעים הוד השרון"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "laskoy@gmail.com"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "השקמים 37,              הוד השרון"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "יהודה"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "052-6616995"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "ג'-ד' 15:30-20:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "laskoy@gmail.com"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.1620266;34.8845807"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-35",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "34",
+          "-CreateTime": "2016/01/06 21:59:01",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002012",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "תכלית האדם ירושלים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "tach-ha@zahav.net.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "בית הדפוס, מרכז ספיר 6              ירושלים"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "02-6516325"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ה' 9:00-20:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "tach-ha@zahav.net.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.7861823;35.1808835"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Kosher",
+              "-TagID": "1002",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-36",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "35",
+          "-CreateTime": "2016/01/07 19:16:10",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002013",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע אופקים"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-of@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "קרית ספר 18,              אופקים"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.3010232;34.6162136"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-37",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "36",
+          "-CreateTime": "2016/01/07 19:28:59",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002014",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע חדרה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-he@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הנגב 5,              חדרה              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.4404716;34.883"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-38",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "37",
+          "-CreateTime": "2016/01/07 19:32:20",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002015",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע רמלה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-ra@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "בן צבי 20,              רמלה              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.9287183;34.8582747"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-39",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "38",
+          "-CreateTime": "2016/01/07 19:34:06",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002016",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע יבנה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-ya@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "שבזי 24,              יבנה              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.8735996;34.7440063"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-40",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "39",
+          "-CreateTime": "2016/01/07 19:35:43",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002017",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע יפו (הפיקוס 22)"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-yf@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "הפיקוס 22,              יפו              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.035845;34.7494978"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-41",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "40",
+          "-CreateTime": "2016/01/07 19:37:49",
+          "-Version": "2016/01/19 15:31:14",
+          "-Export": "1",
+          "-NI": "500002018",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע כפר סבא"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-ks@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "לוי אשכול 35,              כפר סבא              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.1828638;34.9368497"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "11"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-42",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "41",
+          "-CreateTime": "2016/01/07 19:39:14",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002019",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע ערד"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-ar@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "סמטת האקליפטוס 6,              ערד "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi-ar@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.254833;35.2150091"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-43",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "42",
+          "-CreateTime": "2016/01/07 19:41:38",
+          "-Version": "2016/01/19 15:32:37",
+          "-Export": "1",
+          "-NI": "500002020",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע פרדס כץ"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-pk@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "אברבנל 105, פרדס כץ              בני ברק"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0964346;34.832746"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-44",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "43",
+          "-CreateTime": "2016/01/07 20:36:54",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002021",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע פתח תקווה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-pt@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "טבריה 44,              פ\"ת              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0716123;34.9157653"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-45",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "44",
+          "-CreateTime": "2016/01/07 20:39:05",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002022",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע צפת"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-ts@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "לוחמי הגטאות 49,              צפת              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.956123;35.4942693"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-46",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "45",
+          "-CreateTime": "2016/01/07 20:40:37",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002023",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע קרית גת"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-kg@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "שדרות הגולן 2,              קרית גת"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.6133739;34.7731295"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-47",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "46",
+          "-CreateTime": "2016/01/07 20:42:46",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002024",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע קרית שמונה"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-ksh@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "שפרינצק 42,              קרית שמונה              "
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "33.2131875;35.575149"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-48",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "47",
+          "-CreateTime": "2016/01/07 20:44:40",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002025",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע רחובות"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-r@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "גבריאלוב 20, רחובות"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "31.8869914;34.7833762"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-49",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "48",
+          "-CreateTime": "2016/01/07 20:48:20",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002026",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע שפירא"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-sh@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "התיבונים 28, ת/״א"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.052273;34.7773321"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-50",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "49",
+          "-CreateTime": "2016/01/07 20:49:51",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002027",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע כרמיאל"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-k@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "החרושת 11, כרמיאל"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.9218318;35.3030104"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-51",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "50",
+          "-CreateTime": "2016/01/07 20:52:18",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002028",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע עכו"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-a@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "מרווה 2, עכו"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.9418718;35.0752012"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        },
+        {
+          "-ID": "!Amutot-52",
+          "-Type": "2",
+          "-ParentID": "!Amutot",
+          "-Order": "51",
+          "-CreateTime": "2016/01/07 20:54:44",
+          "-Version": "2016/01/15 17:13:01",
+          "-Export": "1",
+          "-NI": "500002029",
+          "-Stored": "1",
+          "ArticleItem": [
+            {
+              "-Tag": "Main Title",
+              "-TagID": "3",
+              "#text": "לשובע יפו (ברגנר 6)"
+            },
+            {
+              "-Tag": "Secondary Title",
+              "-TagID": "4",
+              "#text": "udi-yb@lasova.org.il"
+            },
+            {
+              "-Tag": "Short Text",
+              "-TagID": "1",
+              "#text": "אליזבט ברגנר 6, יפו"
+            },
+            {
+              "-Tag": "Author",
+              "-TagID": "10",
+              "#text": "אודי"
+            },
+            {
+              "-Tag": "Source",
+              "-TagID": "9",
+              "#text": "050-6879715"
+            },
+            {
+              "-Tag": "Time",
+              "-TagID": "8",
+              "#text": "א'-ש' 6:00-22:00"
+            },
+            {
+              "-Tag": "Article URL",
+              "-TagID": "15",
+              "#text": "udi@lasova.org.il"
+            },
+            {
+              "-Tag": "Location",
+              "-TagID": "30",
+              "#text": "32.0576215;34.7564093"
+            },
+            {
+              "-Tag": "Quantity",
+              "-TagID": "1000",
+              "#text": "1"
+            },
+            {
+              "-Tag": "DryFood",
+              "-TagID": "1001",
+              "#text": "1"
+            },
+            {
+              "-Tag": "FreshFood",
+              "-TagID": "1003",
+              "#text": "1"
+            },
+            {
+              "-Tag": "Cooling",
+              "-TagID": "1004",
+              "#text": "1"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

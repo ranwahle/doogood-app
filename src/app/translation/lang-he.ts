@@ -19,6 +19,14 @@ export const LANG_HE_TRANS = {
   'Kosher' : 'כשר',
   'Refrigeration' : 'קירור' ,
   'DonationDescription' : 'רשמו בקצרה פרטים על המזון אותו תרצו לתרום',
-  'DonationDetails' : 'פרטי התרומה'
+  'DonationDetails' : 'פרטי התרומה',
+  'Donation' : 'תרומה',
+  'OrganizationsFound' : 'עמותות נמצאו',
+  'OrganizationName' : 'שם העמותה',
+  'OrganizationAddress' : 'כתובת העמותה',
+  'OpenningHours' : 'שעות פתיחה',
+  'ContactEmail' : 'דואר אלקטרוני',
+  'ContactPhone' : 'טלפון'
+
 
 };

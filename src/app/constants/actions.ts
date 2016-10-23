@@ -3,8 +3,10 @@
  */
 export const Language = {
   Change: 'Language_Change'
-}
+};
 
 export const Organizations = {
-  Find: 'FindOrganizations'
-}
+  Find: 'FindOrganizations',
+  Error: 'ErrorLoadingOrganizations',
+  Loaded: 'OrganizationsLoaded'
+};

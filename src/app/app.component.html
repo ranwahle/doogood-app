@@ -2,5 +2,10 @@
   <h1>
     {{title}}
   </h1>
+  <app-navigation>
+  </app-navigation>
   <router-outlet></router-outlet>
+  <app-map (markerClicked)="organizationClicked($event)"></app-map>
+  <app-organization-info *ngIf="selectedOrganization" [organization]="selectedOrganization" >  </app-organization-info>
+  <app-organization-table></app-organization-table>
 </div>

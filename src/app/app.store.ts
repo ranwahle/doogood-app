@@ -9,13 +9,14 @@ import {applyMiddleware, createStore} from "redux";
 import {RootReducer} from "./reducers/root";
 import {APP_Middlewares} from "./middlewares/app.middlewares";
 import {LANG_HE_NAME} from "./translation/lang-he";
+import {OrganizationApiMiddleware} from "./middlewares/organizationsApi.middleware";
 @Injectable()
 export class Store{
 
   private  store;
 
-  constructor(){
-    this.store = createStore(RootReducer,applyMiddleware(...APP_Middlewares.map(item => item.middleware)));
+  constructor(organizationApiMiddleware:OrganizationApiMiddleware){
+    this.store = createStore(RootReducer, applyMiddleware(organizationApiMiddleware.middleware));
     this.store.getState().language = LANG_HE_NAME;
   }
 
