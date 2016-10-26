@@ -20,6 +20,8 @@ import {OrganizationTableComponent} from "./organization-table/organization-tabl
 import {OrgToMarkerPipe} from "./org-to-marker.pipe";
 import {OrganizationInfoComponent} from "./organization-info/organization-info.component";
 import {GetPropertyPipe} from "./get-property.pipe";
+import {Angular2DataTableModule} from "angular2-data-table";
+import {FlattenOrganizationPipePipe} from "./flatten-organization-pipe.pipe";
 
 @NgModule({
   declarations: [
@@ -32,13 +34,15 @@ import {GetPropertyPipe} from "./get-property.pipe";
     OrganizationTableComponent,
     OrgToMarkerPipe,
     OrganizationInfoComponent,
-    GetPropertyPipe
+    GetPropertyPipe,
+    FlattenOrganizationPipePipe
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpModule,
     routing,
+    Angular2DataTableModule,
     AgmCoreModule.forRoot({apiKey:'AIzaSyC84HV6f-FVg_eDndSsIBJpeBeWHhdtOEM'})
   ],
   providers: [TRANSLATION_PROVIDERS, TranslateService, ...APP_Middlewares, Store, ...APP_ACTIONS],
