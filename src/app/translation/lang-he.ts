@@ -26,7 +26,8 @@ export const LANG_HE_TRANS = {
   'OrganizationAddress' : 'כתובת העמותה',
   'OpenningHours' : 'שעות פתיחה',
   'ContactEmail' : 'דואר אלקטרוני',
-  'ContactPhone' : 'טלפון'
+  'ContactPhone' : 'טלפון',
+  'DistanceInKilometers' : 'מרחק בקילומטרים'
 
 
 };

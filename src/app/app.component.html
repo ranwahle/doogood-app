@@ -5,7 +5,8 @@
   <app-navigation>
   </app-navigation>
   <router-outlet></router-outlet>
-  <app-map (markerClicked)="organizationClicked($event)"></app-map>
-  <app-organization-info *ngIf="selectedOrganization" [organization]="selectedOrganization" >  </app-organization-info>
-  <app-organization-table></app-organization-table>
+  <app-map [organizations]="_store.state.organizations" [location]="_store.state.location" [selectedOrganization]="selectedOrganization" (markerClicked)="organizationClicked($event)"></app-map>
+  <app-organization-info *ngIf="selectedOrganization" [organization]="selectedOrganization"></app-organization-info>
+  <app-organization-table *ngIf="_store.state.organizations" [organizations]="_store.state.organizations"
+    (organizationClicked)="organizationClicked(_store.state.organizations[$event.index])"></app-organization-table>
 </div>

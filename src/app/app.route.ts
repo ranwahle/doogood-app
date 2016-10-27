@@ -3,8 +3,8 @@
  */
 import {Routes, RouterModule} from "@angular/router";
 import {ModuleWithProviders} from "@angular/core";
-import {DonationFormComponent} from "./donation-form/donation-form.component";
-import {HomeComponent} from "./home/home.component";
+import {DonationFormComponent} from "./components/donation-form/donation-form.component";
+import {HomeComponent} from "./components/home/home.component";
 
 /**
  * Created by ranwahle on 12/10/2016.

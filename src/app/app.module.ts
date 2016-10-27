@@ -4,8 +4,8 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import {DonationFormComponent} from "./donation-form/donation-form.component";
-import {HomeComponent} from "./home/home.component";
+import {DonationFormComponent} from "./components/donation-form/donation-form.component";
+import {HomeComponent} from "./components/home/home.component";
 import {Store} from "./app.store";
 import {TranslateService} from "./translation/trnanslate.service";
 import {TRANSLATION_PROVIDERS} from "./translation/translation";
@@ -13,15 +13,16 @@ import {TranslatePipe} from "./translation/transplate.pipe";
 import {routing} from "./app.route";
 import {APP_ACTIONS} from "./actions/app.actions";
 import {APP_Middlewares} from "./middlewares/app.middlewares";
-import {MapComponent} from "./map/map.component";
+import {MapComponent} from "./components/map/map.component";
 import {AgmCoreModule} from "angular2-google-maps/core";
 import {NavigationComponent} from "./navigation/navigation.component";
-import {OrganizationTableComponent} from "./organization-table/organization-table.component";
-import {OrgToMarkerPipe} from "./org-to-marker.pipe";
-import {OrganizationInfoComponent} from "./organization-info/organization-info.component";
-import {GetPropertyPipe} from "./get-property.pipe";
+import {OrganizationTableComponent} from "./components/organization-table/organization-table.component";
+import {OrgToMarkerPipe} from "./pipes/org-to-marker.pipe";
+import {OrganizationInfoComponent} from "./components/organization-info/organization-info.component";
+import {GetPropertyPipe} from "./pipes/get-property.pipe";
 import {Angular2DataTableModule} from "angular2-data-table";
-import {FlattenOrganizationPipePipe} from "./flatten-organization-pipe.pipe";
+import {FlattenOrganizationPipePipe} from "./pipes/flatten-organization-pipe.pipe";
+import {MetersToKilometersPipe} from "./pipes/meters-to-kilometers.pipe";
 
 @NgModule({
   declarations: [
@@ -35,7 +36,8 @@ import {FlattenOrganizationPipePipe} from "./flatten-organization-pipe.pipe";
     OrgToMarkerPipe,
     OrganizationInfoComponent,
     GetPropertyPipe,
-    FlattenOrganizationPipePipe
+    FlattenOrganizationPipePipe,
+    MetersToKilometersPipe
   ],
   imports: [
     BrowserModule,

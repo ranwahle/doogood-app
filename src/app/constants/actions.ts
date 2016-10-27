@@ -10,3 +10,9 @@ export const Organizations = {
   Error: 'ErrorLoadingOrganizations',
   Loaded: 'OrganizationsLoaded'
 };
+
+export const LocationActionsTypes = {
+  GetLocation: 'Location_GetLocation',
+  LocationChanged: 'Location_LocationChanged',
+  SetOriginalLocation: 'Location_SetOriginalLocation'
+};
